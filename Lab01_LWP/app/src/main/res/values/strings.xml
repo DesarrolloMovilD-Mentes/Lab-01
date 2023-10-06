@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">01_StAtus_W3</string>
+    <string name="txtid">Usuario</string>
+    <string name="txtpw">Contraseña</string>
+    <string name="btn_signin">Iniciar Sesión</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="btn_forgotPsswd">Recuperar Contraseña</string>
+</resources>

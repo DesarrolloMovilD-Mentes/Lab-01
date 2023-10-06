@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">01_StAtus_W3</string>
+    <string name="txtid">Nome de usuário</string>
+    <string name="txtpw">Senha</string>
+    <string name="btn_signin">Iniciar sessão</string>
+    <string name="btn_register">check-in</string>
+    <string name="btn_forgotPsswd">Recuperar senha</string>
+</resources>
