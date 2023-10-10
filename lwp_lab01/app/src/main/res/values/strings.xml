@@ -1,13 +1,24 @@
 <resources>
-    <string name="app_name">lwp_lab01</string>
+    <string name="app_name">TestForLab</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+    <string name="sign_in">Iniciar Sesión</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Nosotros</string>
+    <string name="menu_slideshow">Aula Virtual</string>
+    <string name="menu_Entities">Entidades Publicas</string>
+    <string name="menu_Info">Creditos</string>
+    <string name="message_home">Pantalla de Inicio</string>
+    <string name="message_about_us">Pantalla de Acerca de...</string>
+    <string name="message_VC">Pantalla de Campus virtual</string>
+    <string name="message_EP">Pantalla de Entidades</string>
+    <string name="message_Credits">Pantalla de Creditos</string>
+    <string name="txt_LWP">Aprende Mientras Juegas, dedicado al aprendizaje virtual!</string>
+    <string name="txt_LWP_mail">learnwhileplaying@gmail.com</string>
+
 </resources>

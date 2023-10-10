@@ -8,6 +8,7 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.example.lwp_lab01.databinding.FragmentGalleryBinding
+import com.example.lwp_lab01.R
 
 class GalleryFragment : Fragment() {
 
@@ -22,16 +23,11 @@ class GalleryFragment : Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
-        val galleryViewModel =
-            ViewModelProvider(this).get(GalleryViewModel::class.java)
-
         _binding = FragmentGalleryBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        val textView: TextView = binding.textGallery
-        galleryViewModel.text.observe(viewLifecycleOwner) {
-            textView.text = it
-        }
+        var text_gallery = root.findViewById<TextView>(R.id.text_gallery)
+        text_gallery.setText(R.string.message_about_us)
         return root
     }
 

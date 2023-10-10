@@ -18,6 +18,15 @@
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
+        android:id="@+id/nav_credits"
+        android:name="com.example.lwp_lab01.ui.credits.creditsFragment"
+        android:label="string/menu_Info"
+        tools:layout="@layout/fragment_credits" />
+    <fragment
+        android:id="@+id/nav_entities"
+        android:name="com.example.lwp_lab01.ui.entities.EntitiesFragment"
+        android:label="@string/menu_Entities" />
+    <fragment
         android:id="@+id/nav_slideshow"
         android:name="com.example.lwp_lab01.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
