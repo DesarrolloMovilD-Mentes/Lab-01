@@ -26,8 +26,6 @@ class SlideshowFragment : Fragment() {
         _binding = FragmentSlideshowBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        var text_Slideshow = root.findViewById<TextView>(R.id.text_slideshow)
-        text_Slideshow.setText(R.string.message_VC)
         return root
     }
 

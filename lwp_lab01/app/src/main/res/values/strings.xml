@@ -2,6 +2,13 @@
     <string name="app_name">Aprende Mientras Juegas</string>
     <string name="sign_in">Iniciar Sesión</string>
 
+    <string name="txtid">Usuario</string>
+    <string name="txtpw">Contraseña</string>
+    <string name="btn_signin">Iniciar Sesión</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="btn_forgotPsswd">Recuperar Contraseña</string>
+
+
     <string name="menu_home">Inicio</string>
     <string name="menu_gallery">Nosotros</string>
     <string name="menu_slideshow">Aula Virtual</string>
@@ -21,5 +28,8 @@
     <string name="title_entities">Entidades Reconocedoras</string>
     <string name="title_Credits">Creditos Correspondientes</string>
     <string name="text_Credits">Creditos hacía quienes participaron en la creación de este proyecto. Participantes: Kenneth Piedra Vargas, William Cubero Navarro, Eduard Andrés Arias Quiros y Sebastián Alberto Mata Ortega</string>
-
+    <string name="about_text">LWP es una empresa líder en soluciones tecnológicas con más de 10 años de experiencia en el mercado. Nos dedicamos a desarrollar aplicaciones móviles y sistemas web de alta calidad para nuestros clientes en todo el mundo.</string>
+    <string name="contact_info_text">Contacto: Dirección: Calle Principal #123, Ciudad Tech, Teléfono: +123 456 7890, Correo: info@lwp.com</string>
+    <string name="comment_hint">Deja tu comentario…</string>
+    <string name="submit_comment_text">Enviar comentario</string>
 </resources>

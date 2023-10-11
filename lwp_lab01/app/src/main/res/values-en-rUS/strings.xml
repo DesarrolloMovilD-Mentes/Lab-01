@@ -2,6 +2,11 @@
 <resources>
     <string name="app_name">Learn While Playing</string>
     <string name="sign_in">Sign In</string>
+    <string name="txtid">Username</string>
+    <string name="txtpw">Password</string>
+    <string name="btn_signin">Sign In</string>
+    <string name="btn_register">Sign Up</string>
+    <string name="btn_forgotPsswd">Recover Password</string>
     <string name="menu_home">Home</string>
     <string name="menu_gallery">About Us</string>
     <string name="menu_slideshow">Virtual Classroom</string>
@@ -21,4 +26,8 @@
     <string name="title_entities">Entity Recognition</string>
     <string name="title_Credits">Corresponding Credits</string>
     <string name="text_Credits">Credits to those who participated in the creation of this project. Participants: Kenneth Piedra Vargas, William Cubero Navarro, Eduard Andrés Arias Quiros and Sebastián Alberto Mata Ortega</string>
+    <string name="about_text">LWP is a leading technology solutions company with more than 10 years of experience in the market. We are dedicated to developing high-quality mobile applications and web systems for our clients around the world.</string>
+    <string name="comment_hint">Leave a Comment</string>
+    <string name="submit_comment_text">Send Feedback</string>
+    <string name="contact_info_text">Contact: Address: Calle Principal #123, Ciudad Tech, Telephone: +123 456 7890, Email: info@lwp.com</string>
 </resources>

@@ -26,8 +26,6 @@ class GalleryFragment : Fragment() {
         _binding = FragmentGalleryBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        var text_gallery = root.findViewById<TextView>(R.id.text_gallery)
-        text_gallery.setText(R.string.message_about_us)
         return root
     }
 
