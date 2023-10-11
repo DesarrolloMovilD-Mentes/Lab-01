@@ -26,8 +26,6 @@ class creditsFragment : Fragment() {
         _binding = FragmentCreditsBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        var text_credits = root.findViewById<TextView>(R.id.text_credits)
-        text_credits.setText(R.string.message_Credits)
         return root
     }
 

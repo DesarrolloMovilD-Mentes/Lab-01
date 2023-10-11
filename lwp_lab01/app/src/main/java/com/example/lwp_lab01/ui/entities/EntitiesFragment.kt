@@ -32,8 +32,6 @@ class EntitiesFragment : Fragment() {
         _binding = FragmentEntitiesBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        var text_entities = root.findViewById<TextView>(R.id.text_entities)
-        text_entities.setText(R.string.message_EP)
         return root
     }
 

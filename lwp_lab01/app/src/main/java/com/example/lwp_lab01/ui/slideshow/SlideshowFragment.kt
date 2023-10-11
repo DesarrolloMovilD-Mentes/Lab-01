@@ -27,7 +27,7 @@ class SlideshowFragment : Fragment() {
         val root: View = binding.root
 
         var text_Slideshow = root.findViewById<TextView>(R.id.text_slideshow)
-        text_Slideshow.setText(R.string.message_home)
+        text_Slideshow.setText(R.string.message_VC)
         return root
     }
 
